@@ -107,3 +107,26 @@ Note: These disks are formatted for DOS 1.x and may not open in WinImage.
 
 G95 is a stable, production Fortran 95 compiler available for multiple cpu architectures and operating systems. Innovations and optimizations continue to be worked on. Parts of the F2003 and F2008 standards have been implemented in g95.
 
+7. [Compaq Visual Fortran](https://www.cs-software.com/software/fortran/compaq/cvf_relnotes.html)
+
+![Cover](https://www.cs-software.com/software/fortran/compaq/box_cvf_pro.jpg)
+
+Compaq Visual Fortran Version 6.6 for Windows x86 Systems.  Compaq  Visual Fortran for Windows 2000, NT, ME, 98, and 95 systems is a complete development system that includes the Compaq Fortran 95 compiler and runtime system, libraries, and tools combined with the Microsoft Developer Studio integrated development environment (IDE) and tools.
+
+Compaq Visual Fortran is an implementation of the Fortran programming language that supports the FORTRAN 66, FORTRAN 77, and Fortran 90 and 95 standards. Compaq Visual Fortran runs on, and generates native object code for x86 systems under Windows NT, Windows 95, Windows 98, Windows 2000, and Windows ME.  Compaq Visual Fortran fully supports the following language standards:
+
+  o FORTRAN 66 (ANSI X3.9-1966)
+  o FORTRAN 77 (ANSI X3.9-1978)
+  o FORTRAN 77 (ISO 1539-1980(E))
+  o Fortran 90 (ANSI X3.198-1992)
+  o Fortran 95 (ISO/ IEC 1539-1:1997(E))
+  
+
+[Compaq Visual Fortran V6.6-Programmers Guide](http://jp.xlsoft.com/documents/intel/cvf/cvf_pg.pdf)
+
+[Compaq Visual Fortran Installing and Getting Started](https://doc.lagout.org/programmation/Fortran/Compaq%20Visual%20Fortran%20-%20Getting%20Started.pdf)
+
+[CVF 6 README](ftp://ftp.itc.nl/pub/sardon/Fortran/CVF_STD_66A%20(D)/CVF_SPD_66.TXT)
+
+[MIRROR](ftp://ftp.itc.nl/pub/sardon/Fortran/CVF_STD_66A%20(D)/)
+
