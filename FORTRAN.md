@@ -29,7 +29,7 @@
 
 ### Fortran 95
 
-I learned Fortran 95 back there in 2006 using the "[Fortran 90/95 for Scientists and Engineers 2nd Edition](https://www.amazon.com/gp/product/0072825758/ref=dbs_a_def_rwt_bibl_vppi_i7)" [COVER](https://images-na.ssl-images-amazon.com/images/I/51-%2BXunL39L._SX386_BO1,204,203,200_.jpg).  In my opinion, this book is the best book to learn Fortran 95 because it provides a complete material about this language and many very good excercises. Just read the book and solve the exercises. This would be enought to make you a Fortran 95 programmer. Ok, at least teach you all you need for academical purposes. 
+I learned Fortran 95 back there in 2006 using the "[Fortran 90/95 for Scientists and Engineers 2nd Edition](https://www.amazon.com/gp/product/0072825758/ref=dbs_a_def_rwt_bibl_vppi_i7)" [COVER](https://images-na.ssl-images-amazon.com/images/I/51-%2BXunL39L._SX386_BO1,204,203,200_.jpg).  In my opinion, this book is the best book to learn Fortran 95 because it provides a complete material about this language and many very good exercises. Just read the book and solve the exercises. This would be enough to make you a good Fortran 95 programmer. Ok, at least teach you all you need for academical purposes. 
 
 [TEXT](https://doc.lagout.org/programmation/Fortran/Fortran%2090-95%20for%20scientists%20and%20engineers%20-%20S.J.%20Chapman.djvu )
 
