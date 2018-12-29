@@ -41,5 +41,9 @@ Archive contains three 160K disks in raw and ImageDisk format.
 
 Note: These disks are formatted for DOS 1.x and may not open in WinImage.
 
+5. [Simply Fortran](http://simplyfortran.com/freetrial.html)
 
+6. [g95](http://www.g95.org/index.shtml)
+
+G95 is a stable, production Fortran 95 compiler available for multiple cpu architectures and operating systems. Innovations and optimizations continue to be worked on. Parts of the F2003 and F2008 standards have been implemented in g95.
 
