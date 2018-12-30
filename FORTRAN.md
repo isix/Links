@@ -6,18 +6,19 @@
 
 1. [FORTRAN IV](https://archive.org/details/fortraniv00mcca)
 
+<img src="https://covers.openlibrary.org/b/id/6623358-M.jpg" alt="cover" width="150"/>
 
 ### FORTRAN 77
 
 1. [Fortran 77: Featuring Structured Programming](https://www.amazon.com/Fortran-77-Featuring-Structured-Programming/dp/020105499X)
 
-![Cover](https://images-na.ssl-images-amazon.com/images/I/51HQ7J6CVJL._SX316_BO1,204,203,200_.jpg)
+<img src="https://images-na.ssl-images-amazon.com/images/I/51HQ7J6CVJL._SX316_BO1,204,203,200_.jpg" alt="drawing" width="150"/>
 
 [Full text](https://archive.org/details/fortran77featuri00meis)
 
 2. [Structured FORTRAN 77 for engineers and scientists by D. M. Etter](https://www.amazon.com/Structured-Fortran-77-Engineers-Scientists/dp/0201498545/ref=sr_1_1?ie=UTF8&qid=1546087819&sr=8-1&keywords=Structured+FORTRAN+77+for+engineers+and+scientists)
 
-![Cover](https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fpictures.abebooks.com%2Fisbn%2F9780805300512-us-300.jpg&f=1)
+<img src="https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fpictures.abebooks.com%2Fisbn%2F9780805300512-us-300.jpg&f=1" alt="drawing" width="150"/>
 
 ![FULL TEXT](https://archive.org/details/structuredfortra00ette_0)
 
@@ -37,7 +38,7 @@ I learned Fortran 95 back there in 2006 using the "[Fortran 90/95 for Scientists
 1. [FORTRAN FOR SCIENTISTS & ENGINEERS 4th Edition, 2018
 ](https://www.mheducation.com/highered/product/fortran-scientists-engineers-chapman/M0073385891.html)
 
-![Cover](https://images-na.ssl-images-amazon.com/images/I/51mncB9WejL._AC_US218_.jpg)
+<img src="https://images-na.ssl-images-amazon.com/images/I/51mncB9WejL._AC_US218_.jpg" alt="drawing" width="150"/>
 
 [Book sample](https://pws.yazd.ac.ir/bahadory/cp/Chapman.pdf)
 
@@ -47,7 +48,7 @@ I like Numerical Recipes (Press et al.) for their descriptions of many numerical
 
 1. [Numerical Recipes in FORTRAN 77](https://www.alibris.com/Numerical-Recipes-in-FORTRAN-77-Volume-1-Volume-1-of-FORTRAN-Numerical-Recipes-The-Art-of-Scientific-Computing-William-H-Press/book/28538345?matches=23)
 
-![COVER](https://www2.alibris-static.com/numerical-recipes-in-fortran-77-volume-1-volume-1-of-fortran-numerical-recipes-the-art-of-scientific-computing/isbn/9780521430647_l.jpg)
+<img src="https://www2.alibris-static.com/numerical-recipes-in-fortran-77-volume-1-volume-1-of-fortran-numerical-recipes-the-art-of-scientific-computing/isbn/9780521430647_l.jpg" alt="drawing" width="150"/>
 
 ![FULL TEXT Website](http://nrbook.com/a/bookfpdf.php)
 
@@ -57,7 +58,7 @@ I like Numerical Recipes (Press et al.) for their descriptions of many numerical
 
 2. [Numerical Recipes in Fortran 90, Second Edition (1996)](http://www.nrbook.com/a/bookf90pdf.php)
 
-![COVER](https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.yWj1HQ8qahf56rMcETeJ4gAAAA%26pid%3D15.1&f=1)
+<img src="https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.yWj1HQ8qahf56rMcETeJ4gAAAA%26pid%3D15.1&f=1" alt="COVER" width="150"/>
 
 ![PDF Volume 1](http://nrbook.com/a/bookf90pdf.html)
 ![PDF Volume 2](http://www.elch.chem.msu.ru/tch/group/FortranBooks/NumericalRecipesinF90.pdf)
