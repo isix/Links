@@ -45,10 +45,11 @@ Simply put, the future is in parallel, and Fortran is already there.
 * [Full course video](http://www.cesup.ufrgs.br/cursos-e-audiovisual/cursos/fortran-90-95)
 
 
-2. [xxx](xxx)
+2. [Fortran 90 Handbook: Complete Ansi/Iso Reference (Computing That Works)](https://www.amazon.com/Fortran-90-Handbook-Reference-Computing/dp/0070004064)
 
-<img src="https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fpictures.abebooks.com%2Fisbn%2F9780805300512-us-300.jpg&f=1" alt="drawing" width="150"/>
+<img src="https://images-na.ssl-images-amazon.com/images/I/51YLN6-nZIL._SX413_BO1,204,203,200_.jpg" alt="book cover" width="150"/>
 
+* [Full text](https://micro.ustc.edu.cn/Fortran/Fortran%2090%20Handbook.pdf)
 
 
 ### Fortran 95
@@ -83,18 +84,18 @@ I like Numerical Recipes (Press et al.) for their descriptions of many numerical
 
 <img src="https://www2.alibris-static.com/numerical-recipes-in-fortran-77-volume-1-volume-1-of-fortran-numerical-recipes-the-art-of-scientific-computing/isbn/9780521430647_l.jpg" alt="drawing" width="150"/>
 
-![FULL TEXT Website](http://nrbook.com/a/bookfpdf.php)
+- ![FULL TEXT Website](http://nrbook.com/a/bookfpdf.php)
 
-![FULL TEXT Vol1](https://websites.pmc.ucsc.edu/~fnimmo/eart290c_17/NumericalRecipesinF77.pdf)
+- ![FULL TEXT Vol1](https://websites.pmc.ucsc.edu/~fnimmo/eart290c_17/NumericalRecipesinF77.pdf)
 
-![FULL TEXT Vol2](http://www.elch.chem.msu.ru/tch/group/FortranBooks/NumericalRecipesinF90.pdf)
+- ![FULL TEXT Vol2](http://www.elch.chem.msu.ru/tch/group/FortranBooks/NumericalRecipesinF90.pdf)
 
 2. [Numerical Recipes in Fortran 90, Second Edition (1996)](http://www.nrbook.com/a/bookf90pdf.php)
 
 <img src="https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.yWj1HQ8qahf56rMcETeJ4gAAAA%26pid%3D15.1&f=1" alt="COVER" width="150"/>
 
-![PDF Volume 1](http://nrbook.com/a/bookf90pdf.html)
-![PDF Volume 2](http://www.elch.chem.msu.ru/tch/group/FortranBooks/NumericalRecipesinF90.pdf)
+- ![PDF Volume 1](http://nrbook.com/a/bookf90pdf.html)
+- ![PDF Volume 2](http://www.elch.chem.msu.ru/tch/group/FortranBooks/NumericalRecipesinF90.pdf)
 
 3. [Programação Científica em Fortran 95 ](https://www.amazon.com.br/Programa%C3%A7%C3%A3o-Cient%C3%ADfica-em-Fortran-95-ebook/dp/B00B4FDDKE)
 
@@ -172,4 +173,10 @@ Compaq Visual Fortran is an implementation of the Fortran programming language t
 [CVF 6 README](ftp://ftp.itc.nl/pub/sardon/Fortran/CVF_STD_66A%20(D)/CVF_SPD_66.TXT)
 
 [MIRROR](ftp://ftp.itc.nl/pub/sardon/Fortran/CVF_STD_66A%20(D)/)
+
+## Tools
+
+1. [Conversor FORTRAN77 to Fortran 90](https://stackoverflow.com/questions/3305523/converter-software-for-fortran-77-to-fortran-90)
+
+
 
