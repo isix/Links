@@ -66,6 +66,9 @@ I learned Fortran 95 back there in 2006 using the "[Fortran 90/95 for Scientists
 
 - [Book sample](https://pws.yazd.ac.ir/bahadory/cp/Chapman.pdf)
 
+- [Class notes by Professor Stephen Chapman](https://player.slideplayer.com/24/7133061/#)
+
+
 ### Modern Fortran
 
 1. [ Modern Fortran, Building Efficient Parallel Applications, 2018](https://www.manning.com/books/modern-fortran)
