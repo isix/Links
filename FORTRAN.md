@@ -12,6 +12,11 @@ A few Fortran facts:
 
 Simply put, the future is in parallel, and Fortran is already there. 
 
+## Language Style
+
+1. [Fortran Coding Standards and Style](http://www.fortran.com/Fortran_Style.pdf)
+
+
 ## Books
 
 ### FORTRAN IV/66
