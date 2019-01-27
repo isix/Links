@@ -21,3 +21,9 @@
 2. [Topic modeling visualization – How to present the results of LDA models](https://www.machinelearningplus.com/nlp/topic-modeling-visualization-how-to-present-results-lda-models/)
 3. [Grid search best topic models](https://www.machinelearningplus.com/nlp/topic-modeling-python-sklearn-examples/)
 
+## Word Embedding
+
+### BERT
+  1. [BERT for sentence encoding/embedding visualization](https://github.com/google-research/bert/issues/242)
+  2. [Visualization of a 12-layer BERT for sentence encoding/embedding](https://github.com/hanxiao/bert-as-service)
+  
